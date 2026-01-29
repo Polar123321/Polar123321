@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>Programador | Estudante | Entusiasta de Tecnologia</b><br>
-  Código bem feito, ideias grandes e zero medo de aprender.
+  Curto código bem feito, base forte e aquelas ideias que parecem exagero… até virarem projeto.
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/Polar123321">
     <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github">
   </a>
   <a href="#">
@@ -21,16 +21,17 @@
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por **programação, lógica e tecnologia**.  
-Gosto de entender como as coisas funcionam *de verdade*, do jeito clássico: base forte, código limpo e controle total do que está acontecendo por baixo dos panos.
+Eu curto **programação, lógica e tecnologia** daquele jeito raiz:  
+entender o que tá acontecendo **por baixo do capô**, sem gambiarra misteriosa e sem “funciona mas ninguém sabe por quê”.
 
-Atualmente estudo e desenvolvo projetos envolvendo:
+Gosto de aprender na base do clássico: **fundamento forte primeiro**, depois a gente acelera e inventa moda.
 
-- Sistemas
-- Scripts avançados
-- Automação
-- Jogos
-- Back-end e lógica pesada
+Hoje eu mexo bastante com coisas tipo:
+
+- Sistemas e lógica “pesada”
+- Scripts e automações
+- Jogos (e uns experimentos meio doidos)
+- Back-end e ferramentas úteis pro dia a dia
 
 ---
 
@@ -53,13 +54,12 @@ Atualmente estudo e desenvolvo projetos envolvendo:
 
 ## 📌 Projetos em Destaque
 
-- 🔧 **Scripts avançados**
-- 🎮 **Modificações e sistemas para jogos**
-- ⚙️ **Automação e otimização**
-- 🧪 **Experimentos técnicos**
+Algumas coisas que eu tô mexendo (ou aprontando) por aqui:
 
-> Aqui não tem código jogado fora.  
-> Cada projeto é aprendizado sólido.
+- 🔧 **Infinite Hub**
+- 🎮 **Reverse Engineering**
+- ⚙️ **Jarvis AI**
+- 🧪 **Back-end API**
 
 ---
 
@@ -77,13 +77,13 @@ Atualmente estudo e desenvolvo projetos envolvendo:
 
 ## 📫 Contato
 
-Se quiser trocar ideia, aprender junto ou colaborar:
+Se quiser trocar ideia, fazer um projeto junto ou só bater papo de programação:
 
 - 💻 GitHub: **@SEU_USUARIO**
-- 📩 Projetos abertos a contribuições
+- 📩 Repositórios abertos a contribuições (se tiver algo legal, manda bala)
 
 ---
 
 <p align="center">
-  <i>"Código bom é aquele que você entende hoje e respeita amanhã."</i>
+  <i>"Código bom não é o que roda. É o que você consegue manter sem querer chorar."</i>
 </p>
