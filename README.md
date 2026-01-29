@@ -1,41 +1,41 @@
-<h1 align="center">🚀 Paulo Kauã</h1>
+<h1 align="center">Paulo Kauã</h1>
 
 <p align="center">
-  <b>Programador | Estudante | Entusiasta de Tecnologia</b><br>
-  Curto código bem feito, base forte e aquelas ideias que parecem exagero… até virarem projeto.
+  <b>Programmer | Student | Tech Enthusiast</b><br>
+  I’m into well-made code, strong fundamentals, and ideas that sound exaggerated… until they turn into real projects.
 </p>
 
 <p align="center">
   <a href="https://github.com/Polar123321">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Status-In%20Development-blue?style=for-the-badge">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Foco-Performance%20%26%20Qualidade-success?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Quality-success?style=for-the-badge">
   </a>
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## About me
 
-Eu curto **programação, lógica e tecnologia** daquele jeito raiz:  
-entender o que tá acontecendo **por baixo do capô**, sem gambiarra misteriosa e sem “funciona mas ninguém sabe por quê”.
+I’m into **programming, logic, and technology** the “root” way:  
+understanding what’s happening **under the hood**, without mystery hacks and without “it works but nobody knows why”.
 
-Gosto de aprender na base do clássico: **fundamento forte primeiro**, depois a gente acelera e inventa moda.
+I like learning the right way: **strong fundamentals first**, then I speed up and start experimenting.
 
-Hoje eu mexo bastante com coisas tipo:
+These days I spend a lot of time on:
 
-- Sistemas e lógica “pesada”
-- Scripts e automações
-- Jogos (e uns experimentos meio doidos)
-- Back-end e ferramentas úteis pro dia a dia
+- Systems and heavier logic
+- Scripts and automation
+- Games and experiments
+- Back-end and useful everyday tools
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tech & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -52,18 +52,18 @@ Hoje eu mexo bastante com coisas tipo:
 
 ---
 
-## 📌 Projetos em Destaque
+## Featured projects
 
-Algumas coisas que eu tô mexendo (ou aprontando) por aqui:
+Some things I’m building (or working on) around here:
 
-- 🔧 **Infinite Hub**
-- 🎮 **Reverse Engineering**
-- ⚙️ **Jarvis AI**
-- 🧪 **Back-end API**
+- Infinite Hub
+- Reverse Engineering
+- Jarvis AI
+- Back-end API
 
 ---
 
-## 📊 Estatísticas
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true">
@@ -75,15 +75,15 @@ Algumas coisas que eu tô mexendo (ou aprontando) por aqui:
 
 ---
 
-## 📫 Contato
+## Contact
 
-Se quiser trocar ideia, fazer um projeto junto ou só bater papo de programação:
+If you want to talk, build something together, or just chat about programming:
 
-- 💻 GitHub: **@SEU_USUARIO**
-- 📩 Repositórios abertos a contribuições (se tiver algo legal, manda bala)
+- GitHub: **Polar123321**
+- Repos are open to contributions (if you’ve got something cool, go for it)
 
 ---
 
 <p align="center">
-  <i>"Código bom não é o que roda. É o que você consegue manter sem querer chorar."</i>
+  <i>"Good code isn’t just code that runs. It’s code you can maintain without suffering."</i>
 </p>
