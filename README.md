@@ -66,11 +66,11 @@ Some things I’m building (or working on) around here:
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Polar123321&show_icons=true&theme=dark&hide_border=true">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polar123321&layout=compact&theme=dark&hide_border=true">
 </p>
 
 ---
