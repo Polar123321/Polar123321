@@ -1,4 +1,4 @@
-<h1 align="center">Paulo Kauã</h1>
+<h1 align="center">Paulo</h1>
 
 <p align="center">
   <b>Programmer | Student | Tech Enthusiast</b><br>
