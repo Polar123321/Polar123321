@@ -56,10 +56,9 @@ These days I spend a lot of time on:
 
 Some things I’m building (or working on) around here:
 
-- Infinite Hub
-- Reverse Engineering
-- Jarvis AI
-- Back-end API
+
+- Bambu Duro
+- Back-end API's (a lot of)
 
 ---
 
